@@ -2,6 +2,6 @@
 # 编程人生
 
 ```{toctree}
-001_Python_练习/001_Python_语言基础
+001_exercism/001_guidos-gorgeous-lasagna
 
 ```
