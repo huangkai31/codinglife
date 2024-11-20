@@ -2,6 +2,8 @@
 # 编程人生
 
 ```{toctree}
-001_exercism/001_guidos-gorgeous-lasagna
+:maxdepth: 1
+:numbered: 1
+001_exercism/index
 
 ```
