@@ -14,6 +14,8 @@ Exercism 的特点是：
 
 ```{toctree}
 :maxdepth: 1
-001_guidos-gorgeous-lasagna
+:numbered: 1
+:glob: 1
 
+0*
 ```
